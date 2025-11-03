@@ -350,6 +350,9 @@ If this work is helpful, please kindly cite as:
   year={2024}
 }
 ```
+## Contact
+-微信我：备注：姓名-公司名/学校名-NLP
+<img src="[https://github.com/shibing624/pycorrector/blob/master/docs/git_image/wechat.jpeg](https://github.com/TW-NLP/ChineseErrorCorrector/blob/main/images/we_chat.jpg)" width="200" />
 
 ## References
 
